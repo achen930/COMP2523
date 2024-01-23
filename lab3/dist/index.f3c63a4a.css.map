@@ -1,1 +1,0 @@
-{"mappings":"AAAA;;;;AAOA","sources":["map/style.css"],"sourcesContent":["#map {\r\n    height: 100%;\r\n  }\r\n  \r\n  /* \r\n   * Optional: Makes the sample page fill the window. \r\n   */\r\nhtml,\r\nbody {\r\n    height: 100%;\r\n    margin: 0;\r\n    padding: 0;\r\n}"],"names":[],"version":3,"file":"index.f3c63a4a.css.map","sourceRoot":"/__parcel_source_root/"}
